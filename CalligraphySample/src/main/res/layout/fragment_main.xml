@@ -20,6 +20,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/default_theme"/>
+        <TextView
+            fontPath="fonts/ruachlet.ttf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ruachlet字体"/>
 
         <TextView
             fontPath="fonts/Roboto-Bold.ttf"
